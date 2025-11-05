@@ -1,0 +1,9 @@
+"When excited under 227 and 268 nm UV, the emission spectra of Mg2SnO4:0.1 mol% Mn2+ all show the emission peaks at 499 nm."
+
+"For example, upon excitation with 244 nm UV the emission spectrum of Mg2SnO4:0.1 mol% Ti4+, 0.25 mol% Mn2+ consists of the emission of Ti4+ (442 nm) and Mn2+ (497 nm), as shown in Fig. 1(d)."
+
+
+"In the emission spectrum of Zn2SnO4:Eu3+ crystals, emission peaks were observed at the wavelengths of 589 nm, 594 nm, 600 nm and 610 nm respectively"
+
+ "It is noticeable that the emission spectrum of YF3: Ce3+, Dy3+, shows well defined peaks at 478 nm, 571 nm and 658 nm (due to transitions from 4F9/2 level) which otherwise had very weak intensities in the emission spectrum of singly doped sample, YF3 : Dy3+ (Fig. 5a)."
+
